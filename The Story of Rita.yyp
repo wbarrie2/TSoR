@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "3c86ad32-cedb-4a69-aa8a-db7218f882cf",
+            "Value": {
+                "id": "1c062982-be44-4496-bf28-cb1cdcf7f520",
+                "resourcePath": "objects\/obj_character\/obj_character.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "42448593-e059-41e3-a988-5e16bb037133",
             "Value": {
                 "id": "cd237020-0a44-4c80-ab3c-e67bceb08cad",
